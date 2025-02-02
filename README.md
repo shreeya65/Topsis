@@ -1,5 +1,6 @@
 # Topsis
 <h2> Topsis Scores </h2>
+
 | Model                           | ROUGE-1 F1         | ROUGE-2 F1         | ROUGE-L F1         | Inference Time (s)  | Model Size (MB)    |
 |---------------------------------|--------------------|--------------------|--------------------|---------------------|--------------------|
 | facebook/bart-large-cnn         | 0.40184229736886945 | 0.20365321906044728 | 0.31209273723991415 | 0.6825969457626343  | 1549.875          |
@@ -9,6 +10,7 @@
 | facebook/bart-large-xsum        | 0.3009754461077165  | 0.10664466292744187 | 0.22692523332229722  | 0.5646681547164917  | 1549.875          |
 
 <h2> Topsis Ranking</h2>
+
 | Model                           | TOPSIS Score         |
 |---------------------------------|----------------------|
 | facebook/bart-large-cnn         | 0.7871530400737757  |
@@ -18,5 +20,6 @@
 | google/pegasus-cnn_dailymail    | 0.2268980362618784  |
 
 <h2> Ranking Chart</h2>
+
 ![image](https://github.com/user-attachments/assets/9903eba8-d16c-4665-9c39-a5969d9929f7)
 
